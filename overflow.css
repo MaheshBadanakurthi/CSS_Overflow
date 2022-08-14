@@ -1,0 +1,19 @@
+div{
+    background-color: aquamarine;
+    color:brown;
+    font-style: italic;
+    overflow:clip;
+    border:3px ridge green;
+    width:400px;
+    height:80px;
+}
+p{
+    background-color: rgb(234, 234, 80);
+    color:brown;
+    width:200px;
+    height:80px;
+    
+    overflow-x:auto;
+    
+    border:3px ridge green;
+}
